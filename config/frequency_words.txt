@@ -13,6 +13,7 @@ HarmonyOS
 Lenovo
 xCloud
 FinOps
+杨元庆
 
 比亚迪
 王传福
