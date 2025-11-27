@@ -1,14 +1,3 @@
-胖东来
-于东来
-
-DeepSeek
-梁文锋
-
-华为
-鸿蒙
-HarmonyOS
-honor
-
 联想
 Lenovo
 xCloud
@@ -16,8 +5,18 @@ FinOps
 杨元庆
 公有云
 
+华为
+鸿蒙
+HarmonyOS
+honor
+小米
+雷军
+
 比亚迪
-王传福
+领克
+固态电池
+
+
 
 大疆
 DJI
@@ -82,6 +81,7 @@ ai
 美国
 日本
 韩国
+特朗普
 
 芯片
 光刻机
