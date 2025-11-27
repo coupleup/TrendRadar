@@ -14,6 +14,7 @@ Lenovo
 xCloud
 FinOps
 杨元庆
+公有云
 
 比亚迪
 王传福
