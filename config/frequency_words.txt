@@ -7,7 +7,7 @@ DeepSeek
 华为
 鸿蒙
 HarmonyOS
-任正非
+honor
 
 联想
 Lenovo
